@@ -533,7 +533,7 @@ body.project-body {
   display: block;
   float: none;
   clear: none;
-  margin: 10vw 20px;
+  margin: 5vw 20px;
   max-width: none;
 }
 
@@ -1004,7 +1004,7 @@ body.project-body {
   padding-bottom: 0;
   min-height: 400px;
   background-color: #ffbc95;
-  background-image: url('../images/car-background.png');
+  background-image: url('../images/citibike.jpg');
   background-attachment: scroll;
   background-position: center center;
   background-clip: border-box;
@@ -1038,7 +1038,7 @@ body.project-body {
   margin-top: .25rem;
   min-height: 400px;
   background-color: #ffbc95;
-  background-image: url('../images/picture-7-1.jpg');
+  background-image: url('../images/Rockbuster.png');
   background-attachment: scroll;
   background-position: center center;
   background-clip: border-box;
@@ -1070,7 +1070,7 @@ body.project-body {
   -ms-flex-align: center;
   min-height: 60vh;
   height: auto;
-  background-image: url('../images/alexandr-bormotin-1391847-unsplash-%281%29.jpg');
+  background-image: url('../images/header.jpg');
   background-attachment: fixed;
   background-position: center -250px;
   background-clip: border-box;
